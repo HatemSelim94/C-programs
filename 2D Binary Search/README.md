@@ -1,5 +1,5 @@
 ## 2D [Binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm):
-* Using Binary search to find the location of the asterisk given a 2D array.
+* Using binary search to find the location of the asterisk given a 2D array.
 * The array should contain arrows pointing to the asterisk location.
 ### Symbol representation:
 | Symbol  | Value |
@@ -8,11 +8,11 @@
 | &#8593; | 5     |
 | &#8599; | 2     |
 | &#8594; | 3     |
-| &#8600; | 1     |
+| &#11018; | 1     |
 | &#8595; | 6     |
 | &#8601; | 8     |
 | &#8592; | 4     |
-| &#8598; | 7     |
+| &#11017; | 7     |
 
 
 ### Array example:
